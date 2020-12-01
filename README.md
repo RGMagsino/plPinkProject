@@ -20,13 +20,21 @@
   - The score will be displayed after playing the quiz
   
 # IPO CHART
-  # input:
-    - answer all the question in the quiz by the user (5 categories : 120 questions)
-  # process:
-    -user will only answer based on the choices provided in the quiz
-    -record score in each category
-    -sum all the score in every category
-  # output:
-    -the answers will be displayed after answering the category
-    -total scores will be displayed
+------------------------------------------------------------------------
+|       INPUT       |          PROCESS          |        OUTPUT        |
+------------------------------------------------------------------------    					   
+| - answer all the  | - user will only answer   | - the answer will    |				  
+| question in quiz  |	based on the choices 	    |   be displayed after |		 			    
+| bu the user.      |	provided in the quiz.	    |   answering each ca- |					    
+| (5 categories:    |  				                  |   tegory in the      |			     
+|  120 questions)   | - record score after	    |   quiz.	             |					    
+|		                |	answering each cat-	      | - total score will   |			    
+|		                |	egory			                |   be displayed       |	    
+|		                |				                    |   (Out of 120)       |	    
+|		                | - sum all the score, 	    |		                   |		    
+|	 	                |   after finishing the	    |		                   |		    
+|		                |	quiz			                |	                     |
+|                   |                           |                      |
+|                   |                           |                      |
+------------------------------------------------------------------------
    
