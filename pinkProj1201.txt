@@ -1,1 +1,3 @@
-As we work today for our project in programming, we assigned each member on what type of test we are going to do. We assigned the "Multiple choice" to Mr. Magsino, "Identification" to Ms. De Asis and "True or False" to Mr. Peñaranda, and as we do our parts we did not encounter any problems in coding we just made progress in our project.
+As we work today for our project in programming, we assigned each member on what type of test we are going to do. 
+We assigned the "Multiple choice" to Mr. Magsino, "Identification" to Ms. De Asis and "True or False" to Mr. Peñaranda, 
+and as we do our parts we did not encounter any problems in coding we just made progress in our project.
